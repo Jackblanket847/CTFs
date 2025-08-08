@@ -18,7 +18,7 @@ cw-storage-plus = {version = "2.0.0"}
 schemars = "0.8.21"
 serde = { version = "1.0.203", default-features = false, features = ["derive"] }
 thiserror = { version = "1.0.61" }
-protobuf = { version = "3.5.0", features = ["with-bytes"] }
+protobuf = { version = "3.7.2", features = ["with-bytes"] }
 
 [dev-dependencies]
 cosmwasm-schema = "2.0.4"
