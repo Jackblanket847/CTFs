@@ -10,7 +10,7 @@ no-entrypoint = []
 test-bpf = []
 
 [dependencies]
-borsh = "0.10.3"
+borsh = "1.5.7"
 solana-program = "~1.16"
 
 [dev-dependencies]
